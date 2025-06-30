@@ -1,1 +1,1 @@
-# liquitex_acrylic_colors
+Liquitex アクリル絵具の HEX データベースを色相レンジで検索するツール
